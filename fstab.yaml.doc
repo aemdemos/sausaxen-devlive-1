@@ -1,2 +1,4 @@
 mountpoints:
-  /: <sharepoint url>
+  /:
+    url: https://content.da.live/aemdemos/sausaxen-devlive1/
+    type: markup
