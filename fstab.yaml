@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/aemdemos/sausaxen-devlive1/
+    url: https://content.da.live/aemdemos/sausaxen-devlive-1/
     type: markup
